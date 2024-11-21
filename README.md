@@ -17,5 +17,8 @@ Con la ventana abierta utilizar las siguientes teclas para mover la nave
 - W y S: rotación transversal al eje x
 - Q y E: rotación transversal al eje z
 
-Un ejemplo del render se puede encontrar dentro del GIF en el repositorio
-[![nave video.gif](nave%20video.gif)](nave%20video.gif)
+Ejemplo del render
+
+
+![video nave](https://github.com/user-attachments/assets/703b881a-7d5a-4904-a0a4-ca5ea7d190af)
+
